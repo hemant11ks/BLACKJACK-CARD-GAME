@@ -1,3 +1,6 @@
+# Link to the game:
+- https://blackjack-card-game-b7ac3.web.app/
+- 
 # BLACKJACK-CARD-GAME
 This project is done by using html, css and js,
 
